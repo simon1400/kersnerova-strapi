@@ -1,7 +1,8 @@
 {
   "collectionName": "components_chapter_titles",
   "info": {
-    "displayName": "title"
+    "displayName": "Nadpis kapitoly",
+    "description": ""
   },
   "options": {},
   "attributes": {

@@ -4,7 +4,8 @@
   "info": {
     "singularName": "global",
     "pluralName": "globals",
-    "displayName": "global"
+    "displayName": "Globální prvky",
+    "description": ""
   },
   "options": {
     "draftAndPublish": true

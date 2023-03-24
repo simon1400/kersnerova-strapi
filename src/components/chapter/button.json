@@ -1,7 +1,8 @@
 {
   "collectionName": "components_chapter_buttons",
   "info": {
-    "displayName": "button"
+    "displayName": "Tlačítko",
+    "description": ""
   },
   "options": {},
   "attributes": {
